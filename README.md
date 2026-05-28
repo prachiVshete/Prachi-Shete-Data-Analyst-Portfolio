@@ -89,7 +89,7 @@ Savitribai Phule Pune University
 
 ## Live Portfolio
 
-https://your-portfolio-link.vercel.app](https://prachi-shete-data-analyst-portfolio.vercel.app/
+https://prachi-shete-data-analyst-portfolio.vercel.app/
 
 ## Contact Me
 
